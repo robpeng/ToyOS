@@ -1,1 +1,1 @@
-This is a Toy OS that handles syscalls and interrupts.
+This is a Toy OS Kernel that handles syscalls and interrupts.
